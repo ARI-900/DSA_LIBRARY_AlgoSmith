@@ -34,4 +34,5 @@ target_include_directories(algosmith
 # ── Sub-projects ─────────────────────────────────────────────────────────────
 add_subdirectory(examples)
 add_subdirectory(tests)
+add_subdirectory(user_workspace)
 

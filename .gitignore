@@ -1,0 +1,22 @@
+# Build directory
+build/
+
+# Executables and Binaries
+*.exe
+*.out
+*.app
+*.o
+*.obj
+*.pdb
+*.ilk
+
+# IDE and System Files
+.vscode/
+.vs/
+*.user
+*.suo
+.DS_Store
+
+# User scratch files
+command.txt
+AlgoSmith_Walkthrough.md

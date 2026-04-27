@@ -14,6 +14,10 @@ enable_testing()
 add_executable(test_linkedlist test_linkedlist.cpp)
 target_link_libraries(test_linkedlist PRIVATE algosmith GTest::gtest_main)
 
+add_executable(test_doublylinkedlist test_doublylinkedlist.cpp)
+target_link_libraries(test_doublylinkedlist PRIVATE algosmith GTest::gtest_main)
+
 include(GoogleTest)
 gtest_discover_tests(test_linkedlist)
+gtest_discover_tests(test_doublylinkedlist)
 

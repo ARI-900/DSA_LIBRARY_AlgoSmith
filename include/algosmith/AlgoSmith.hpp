@@ -15,6 +15,7 @@
 // ============================================================================
 
 #include <algosmith/LinkedList.hpp>
+#include <algosmith/DoublyLinkedList.hpp>
 
 // Future expansions (uncomment as you build them):
 // #include <algosmith/BinarySearchTree.hpp>

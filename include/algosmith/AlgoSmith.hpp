@@ -16,9 +16,9 @@
 
 #include <algosmith/LinkedList.hpp>
 #include <algosmith/DoublyLinkedList.hpp>
+#include <algosmith/BinarySearchTree.hpp>
 
 // Future expansions (uncomment as you build them):
-// #include <algosmith/BinarySearchTree.hpp>
 // #include <algosmith/Graph.hpp>
 // #include <algosmith/MinHeap.hpp>
 

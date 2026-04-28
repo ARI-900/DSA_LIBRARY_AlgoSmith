@@ -9,7 +9,6 @@ FetchContent_Declare(
 set(gtest_force_shared_crt ON CACHE BOOL "" FORCE)
 FetchContent_MakeAvailable(googletest)
 
-enable_testing()
 
 add_executable(test_linkedlist test_linkedlist.cpp)
 target_link_libraries(test_linkedlist PRIVATE algosmith GTest::gtest_main)

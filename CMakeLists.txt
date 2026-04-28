@@ -31,6 +31,9 @@ target_include_directories(algosmith
         $<INSTALL_INTERFACE:include>
 )
 
+# ── Testing ──────────────────────────────────────────────────────────────────
+enable_testing()
+
 # ── Sub-projects ─────────────────────────────────────────────────────────────
 add_subdirectory(examples)
 add_subdirectory(tests)

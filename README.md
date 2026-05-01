@@ -25,7 +25,7 @@
 
 > *"Not a tutorial project with shortcuts. Precision engineering — every method exception-safe, every class Rule-of-Five complete."*
 
-**[🐛 Report Bug](https://github.com/yourusername/DSA_LIBRARY/issues) &nbsp;·&nbsp; [✨ Request Feature](https://github.com/yourusername/DSA_LIBRARY/issues) &nbsp;·&nbsp; [📖 Documentation](./docs/API.md)**
+**[🐛 Report Bug](https://github.com/ARI-900/DSA_LIBRARY_AlgoSmith/issues) &nbsp;·&nbsp; [✨ Request Feature](https://github.com/ARI-900/DSA_LIBRARY_AlgoSmith/issues) &nbsp;·&nbsp; [📖 Documentation](https://dsa-library-algosmith.onrender.com)**
 
 <br/>
 
